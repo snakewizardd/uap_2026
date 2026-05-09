@@ -1,5 +1,9 @@
 <h1 align="center">uap_2026</h1>
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/snakewizardd/uap_2026)
+
+https://deepwiki.com/snakewizardd/uap_2026
+
 <p align="center">
   <strong>2026-labeled UAP video artifact and frame-analysis handoff</strong>
 </p>
