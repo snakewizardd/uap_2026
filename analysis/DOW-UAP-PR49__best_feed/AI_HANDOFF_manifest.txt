@@ -1,0 +1,57 @@
+DOW-UAP-PR49 best-feed handoff
+Source: DOW-UAP-PR49__Unresolved_UAP_Report__Department_of_the_Army__2026.mp4
+Video: 1920x1080, 30.000 fps, 3276 frames, 109.200s
+
+Primary event window: object enters from right around 1.30s-1.53s, first pass continues through about 5.80s. Additional visible passes continue through about 15.00s.
+
+Folders:
+- DOW-UAP-PR49__best_feed\entry_pass_1p20s_to_5p80s_native_30fps_full: 139 jpg files
+- DOW-UAP-PR49__best_feed\opening_event_1p20s_to_15p00s_10fps_full: 139 jpg files
+- DOW-UAP-PR49__best_feed\scoped_keyframes_full_original: 56 jpg files
+- DOW-UAP-PR49__best_feed\scoped_keyframes_full_enhanced_visibility: 56 jpg files
+- DOW-UAP-PR49__best_feed\scoped_keyframes_full_annotated_boxes: 56 jpg files
+- DOW-UAP-PR49__best_feed\scoped_keyframes_zoom_original: 56 jpg files
+- DOW-UAP-PR49__best_feed\scoped_keyframes_zoom_enhanced_visibility: 56 jpg files
+- DOW-UAP-PR49__best_feed\best_24_full_original: 24 jpg files
+- DOW-UAP-PR49__best_feed\best_24_zoom_original: 24 jpg files
+
+Contact sheets:
+- DOW-UAP-PR49__best_feed\overview_every_2s_contact.png
+- DOW-UAP-PR49__best_feed\first_12s_every_0p25s_contact.png
+- DOW-UAP-PR49__best_feed\opening_event_keyframes_full_contact.jpg
+- DOW-UAP-PR49__best_feed\opening_event_keyframes_annotated_contact.jpg
+- DOW-UAP-PR49__best_feed\opening_event_keyframes_zoom_contact.jpg
+- DOW-UAP-PR49__best_feed\opening_event_keyframes_zoom_enhanced_contact.jpg
+- DOW-UAP-PR49__best_feed\best_24_full_contact.jpg
+- DOW-UAP-PR49__best_feed\best_24_zoom_contact.jpg
+- DOW-UAP-PR49__best_feed\opening_event_detector_trajectory_overlay_visibility_enhanced.jpg
+
+Best 24 timestamps:
+01: t=1.300s frame=39 det_center=(1903.7,305.8) bbox=(1892,301,26,14)
+02: t=1.533s frame=46 det_center=(1725.0,319.5) bbox=(1706,315,40,13)
+03: t=1.767s frame=53 det_center=(1576.9,332.2) bbox=(1558,327,38,10)
+04: t=2.000s frame=60 det_center=(1428.9,346.6) bbox=(1412,343,35,8)
+05: t=2.267s frame=68 det_center=(1223.8,366.0) bbox=(1206,362,36,8)
+06: t=2.500s frame=75 det_center=(1101.8,377.2) bbox=(1084,374,36,8)
+07: t=2.733s frame=82 det_center=(1040.8,382.6) bbox=(1024,379,35,8)
+08: t=3.000s frame=90 det_center=(858.4,396.2) bbox=(841,393,36,7)
+09: t=3.267s frame=98 det_center=(631.1,416.5) bbox=(613,413,37,8)
+10: t=3.500s frame=105 det_center=(589.8,419.3) bbox=(571,415,39,9)
+11: t=3.733s frame=112 det_center=(355.5,437.3) bbox=(336,433,40,10)
+12: t=4.000s frame=120 det_center=(249.1,447.5) bbox=(226,443,47,10)
+13: t=4.800s frame=144 det_center=(1014.0,533.6) bbox=(971,528,86,12)
+14: t=5.067s frame=152 det_center=(1248.2,521.6) bbox=(1205,516,90,11)
+15: t=5.567s frame=167 det_center=(1795.7,501.1) bbox=(1753,496,89,11)
+16: t=6.400s frame=192 det_center=(312.8,498.4) bbox=(292,494,41,10)
+17: t=7.167s frame=215 det_center=(638.5,501.3) bbox=(621,498,35,7)
+18: t=8.300s frame=249 det_center=(1063.7,473.7) bbox=(1052,468,29,13)
+19: t=8.767s frame=263 det_center=(1155.9,478.7) bbox=(1144,471,27,16)
+20: t=9.500s frame=285 det_center=(1331.1,489.7) bbox=(1320,483,27,16)
+21: t=10.567s frame=317 det_center=(1502.0,498.0) bbox=(1490,489,29,19)
+22: t=11.400s frame=342 det_center=(1594.6,512.3) bbox=(1578,504,33,18)
+23: t=12.567s frame=377 det_center=(1642.6,523.9) bbox=(1617,516,57,18)
+24: t=14.933s frame=448 det_center=(1445.6,560.0) bbox=(1434,554,27,14)
+
+Whole-video 1 fps folder:
+- DOW-UAP-PR49__best_feed\whole_video_every_1s_full_original: 110 jpg files
+- DOW-UAP-PR49__best_feed\whole_video_every_1s_contact.jpg
